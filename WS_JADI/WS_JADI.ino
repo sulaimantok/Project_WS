@@ -55,7 +55,7 @@ void setup() {
     }
  
     WiFi.mode(WIFI_STA);
-    WiFiMulti.addAP("Router Lantai 1", "Kf4d3E79wyyP"); 
+    WiFiMulti.addAP("Router Lantai 1", "xxx"); 
 
   
 }
